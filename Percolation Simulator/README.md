@@ -3,6 +3,9 @@
 Percolation is the process of liquid passing through a filter.
 This program generates a grid which can simulate this process.
 
+---
+---
+
 ## How does it work?
 
 > Program generates a grid filled with random numbers and spaces.
@@ -12,6 +15,16 @@ This program generates a grid which can simulate this process.
 > If percolation isn't possible within a specific column, it is checked for and marked
 > within the last row of the grid. A `OK` output where percolation is possible and a
 > `NO` output where it isn't.
+
+Example:
+
+![Example Output](img/Output.jpg)
+
+![File Output](img/FileOutput.jpg)
+
+![HTML Output](img/HTMLoutput.jpg)
+
+---
 
 ## Features
 
@@ -24,10 +37,14 @@ This program generates a grid which can simulate this process.
 > Program can be run without console arguments to generate a `5x5` grid.
 > Program can write the output to a Text file as well as an HTML file both.
 
+---
+
 ## Limitations
 
 > The program can only create grids where the minimum number of rows/columns is 3,
 > while the maximum number is 9.
+
+---
 
 ## Requirements
 
@@ -40,3 +57,6 @@ This program generates a grid which can simulate this process.
 > Python must be added to the system's PATH for both the module and the program to work.
 >
 > Program must be run with `perc.py`, `main.py` must be present at the same directory as `perc.py.`
+
+---
+---

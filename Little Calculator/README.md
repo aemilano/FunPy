@@ -2,9 +2,16 @@
 
 Program gets 10 numbers from user outputs them based on users choice.
 My first ever python project. Heavily bloated and full of bad programming practices.
-Peek in caution.
+__Peek in caution__.
+
+---
+---
+
+![Peek](img/peek.jpg)
 
 ## Features
+
+---
 
 > 1. Stores 10 Numbers from User
 > 2. Show the Highest value
@@ -16,3 +23,6 @@ Peek in caution.
 >    without needing to run it again.
 > 8. A Little Easter Egg
 > 9. Intuitive TUI
+
+---
+---

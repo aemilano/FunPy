@@ -7,23 +7,33 @@ A small terminal game made in python, where the objective is to guess a secret n
 
 ## How to Play
 
-> 1. Program will generate a __4 digit secret number__, where all digits of number will be within
+> Program will generate a __4 digit secret number__, where all digits of number will be within
 > __1 and 6__ (1, 6 included).
 >
-> 2. User must guess this number __within 8 tries__.
+> User must guess this number __within 8 tries__.
 >
-> 3. When the user gets a digit of the secret number correct,
->    the program would output a __1__ in it's position.
->       *Example :*
->                   Secret Number : 1234
->                   Guess :         5535
->                   Output:         XX1X
+> When the user gets a digit of the secret number correct,
+> the program would output a __1__ in it's position.
+      > *Example :*
+                  > Secret Number : 1234
+                  > Guess :         5535
+                  > Output:         XX1X
+
+![Example Output](img/Correct.jpg)
+
 >
-> 4. If the user guesses a digit which is in the number, but not in correct position,
->    the program would output a __0__ in it's position.
->       *Example :*
->                   Secret Number : 1234
->                   Guess :         5553
->                   Output:         XXX0
->
-> 5. If user guesses neither, program outputs __XXXX__.
+> If the user guesses a digit which is in the number, but not in correct position,
+> the program would output a __0__ in it's position.
+       > *Example :*
+                 > Secret Number : 1234
+                 > Guess :         5553
+                 > Output:         XXX0
+
+![Example Output](img/half_correct.jpg)
+
+> If user guesses neither, program outputs __XXXX__.
+
+![Example Output](img/Incorrect.jpg)
+
+---
+---

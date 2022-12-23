@@ -16,7 +16,7 @@ A python module to create a matrix containing random numbers, or to transpose a 
 
 *Example 1 :*
 
-![Example Output : Random Matrix](/img/matrix.jpg)
+![Example Output : Random Matrix](img/matrix.jpg)
 
 ---
 
@@ -26,10 +26,13 @@ A python module to create a matrix containing random numbers, or to transpose a 
 
 *Example 2 :*
 
-![Example Output : Transposed Matrix](/img/transposed.jpg)
+![Example Output : Transposed Matrix](img/transposed.jpg)
 
 ---
 
-### Example Outputs
+### More Example Outputs
 
 > Open the module and edit `no_of_columns` and `no_of_rows` to any int value to conduct further tests.
+
+---
+---

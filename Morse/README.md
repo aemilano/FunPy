@@ -20,5 +20,12 @@ Can be used to encode Plain Text to Morse Code and vice versa.
 > 4. Program can be run on any terminal application of a system where Python is accessible from the
 >    terminal.
 >
-> *Example console argument :* `Morse.py Plaintext.txt Output.txt -e`
->
+
+ *Example console argument :* `Morse.py Plaintext.txt Output.txt -e`
+
+![Example Argument](img/Input.png)
+
+![Example Output](img/decoded.png)
+
+---
+---
