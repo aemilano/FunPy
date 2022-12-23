@@ -46,9 +46,9 @@ Example : `encrypt.py -d Output.txt Decoded.txt 1234`
 ---
 ---
 
-#### __This program was made purely for education purposes and fun__
+#### __This program was made purely for educational purposes and fun__
 
-#### __It is not recommended to be use for actual secure communication!__
+#### __It is not recommended to be used for actual secure communication!__
 
 ---
 ---
