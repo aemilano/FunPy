@@ -1,7 +1,7 @@
 # Little Calculator
 
 Program gets 10 numbers from user outputs them based on users choice.
-My first ever python program. Heavily bloated and full of bad programming practices.
+My first ever python project. Heavily bloated and full of bad programming practices.
 Peek in caution.
 
 ## Features
