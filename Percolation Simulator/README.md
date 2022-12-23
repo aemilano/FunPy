@@ -28,12 +28,13 @@ Example:
 
 ## Features
 
-> User can insert how many rows/columns the grid may have to get the grid they want.
+> User can insert the amount of rows/columns the grid may have to get the grid they want.
 > This can be done by running the program within a terminal application and inserting,
 > the row/column values as console arguments.
-> *Example Argument:*
-> `perc.py 3x4` where `3` is the number of rows and `4` is the number of columns.
->
+
+ *Example Argument:*
+ `perc.py 3x4` where `3` is the number of rows and `4` is the number of columns.
+
 > Program can be run without console arguments to generate a `5x5` grid.
 > Program can write the output to a Text file as well as an HTML file both.
 
@@ -41,8 +42,8 @@ Example:
 
 ## Limitations
 
-> The program can only create grids where the minimum number of rows/columns is 3,
-> while the maximum number is 9.
+> The program will create grids where the minimum number of rows/columns is 3 and
+> the maximum number is 9.
 
 ---
 
@@ -51,7 +52,9 @@ Example:
 > Program requires `PrettyTable` module to be available within the users system,
 > else, it will have limited functionality.
 > You can download this module by using `pip`
-> Run:
+
+ Run:
+
 > `pip install prettytable` within the terminal of your choice.
 >
 > Python must be added to the system's PATH for both the module and the program to work.
