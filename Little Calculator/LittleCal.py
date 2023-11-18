@@ -1,18 +1,3 @@
-#################################################################################################################
-#
-# INFORMATICS INSTITUE OF TECHNOLOGY
-# FOUNDATION MAY BATCH (2022)
-#
-# MODULE           : DOC 333 PROGRAMMING
-# MODULE LEADER    : MR.WELIHINDA
-# ASSESSMENT TYPE  : INDIVIDUAL COURSEWORK
-# ISSUE DATE       : 20TH JULY 2022
-# SUBMISSION DATE  : 09TH AUGUST 2022
-#
-# DEVELOPER        :
-# AMND AMARASINGHE : 20220498
-# LIST 2
-#
 ##################################################################################################################
 #                   #
 # CREATING VARIABLES#
